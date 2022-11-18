@@ -1,0 +1,5614 @@
+[
+  {
+    "playthroughRID": 386262044,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Dat begrijp ik maar als je iets niet begrijpt kan je dit beter communiceren dan niet doen."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.5563028157388797
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.8385010493668915
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.5960166689215721
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.369781196410045
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 386262044,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Wij kunnen hier de volgende sprint samen aan zitten."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.30509424312273764
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1140310840,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Ik kan je hierbij helpen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.9849408196623872
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1140310840,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "Ja dat is goed, moet je er wel zijn."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 0.3772658602533851
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 912132237,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Ja die doen we (bijna) elke dag."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.15010997157391712
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.21479645483085852
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.6363178187840237
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      2,
+      2
+    ],
+    "goldenMatch": 2
+  },
+  {
+    "playthroughRID": 912132237,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Het doel is om dingen te leren"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.5047827048116217
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.9649668532185027
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.3301192825454269
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.4009620531230715
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 912132237,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zal ik je een keer helpen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.887565904603312
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 576430382,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Geen probleem, voor dit soort dingen moet je natuurlijk een gevoel krijgen."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.22410278065935646
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1428072436,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Welke aspecten?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.030793325019465884
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.05674349551252339
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.2894110438629608
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.9308613975779358
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 1428072436,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Kan ik je er bij helpen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.8449097432837867
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 625368831,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Die hebben we elke dag om deze tijd."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.39483695555254733
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.64642862160024
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.8160630578961091
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      2,
+      2
+    ],
+    "goldenMatch": 2
+  },
+  {
+    "playthroughRID": 1388967085,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Ik ook niet."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.3917577941381579
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.5220516534846006
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.7083624330453594
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.6555907430022786
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1388967085,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zal ik je helpen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.9543785651165302
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1194899190,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Dat was dus wel, kun je uitleggen waarom je er niet bij was?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.7728596932628076
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.6489016932080002
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.6863153690377405
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1194899190,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Van welke aspecten bijvoorbeeld?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.15655445184639866
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.1442197355485972
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.33050834051109956
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.9413606859602381
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 1194899190,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zal ik je er zo mee helpen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.9127020336111519
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1194899190,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "Is goed, maar dan moet je wel proberen op tijd te zijn"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 0.18975904604517216
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      1,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1308825666,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Dat hebben we wel zo afgsproken, je bent er vaker niet. Hoe komt dat?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.49553047038050135
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.660789254223338
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.8600696768675125
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1308825666,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Wat snap je bijvoorbeeld niet?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.3197455308345004
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.7779516562565125
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.37323655043594683
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.7258301785216885
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 724925503,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "zoals"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      null,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 724925503,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "ja ik ook niet"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.5616176543179154
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1374609211,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Dat is welke dag"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.3913716029553032
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.6301274949685073
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.5421170757624787
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1997863599,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Dat is afgesproken tijdens de meeting, waar je ook niet was"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.6735316761759768
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.7744291567646917
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.6613507102355103
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1997863599,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "Beter voor jou"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 0
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1700024169,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Dat is gisteren nog in de app gezegd. Heb je dat niet gelezen"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.5310034814844256
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.7311172378603309
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.687421307328529
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1700024169,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Misschien kunnen we er meer gebruik van maken, door samen te werken."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.7142976561623396
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.6039252439295171
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.7575501031787744
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.4404602933156045
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1700024169,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Probeer wat mensen te vragen om hulp. We zijn immers een team."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.6404163650503112
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1319847621,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Ah, vervelend maar kan gebeuren. Probeer de volgende keer er even beter op te letten man!"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.43302284138245145
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.6388029253893233
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.943051849800098
+      }
+    ],
+    "playerMatch": 3,
+    "expertMatches": [
+      3,
+      3
+    ],
+    "goldenMatch": 3
+  },
+  {
+    "playthroughRID": 1319847621,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Top! Wat voor dingen gaan er bijvoorbeeld fout, misschien kan ik je ergens mee helpen."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.3261463001253413
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.5473816073778005
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.856861029854236
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.7027922427453345
+      }
+    ],
+    "playerMatch": 3,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 1118448237,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Wij hadden dit wel afgesproken bij een van de vergaderingen.. Je was er dan waarschijnlijk niet bij."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.6483475796516351
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.6383156401841155
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.701294832481599
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1118448237,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Ik kan je daar wel mee helpen. In team verband aan een codebase is natuurlijk iets heel anders en nieuws. Maar het moet wel goed."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.5672640138072357
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.7888134103561735
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.7116241887180854
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.5026109018345586
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      2
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1118448237,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Ja kan. Dat zal ook de situatie zijn bij vele andere die meedoen aan dit project. In team verband werken eist wel veer meer dan als je alleen zou werken"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.697798207483264
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1118448237,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "Dat kan ook. Zullen we 9u beginnen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 0.1906644887218887
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 279844486,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Hoe kan het dat je te laat was?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.5598473485228839
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.5554316361544698
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.7738791871474155
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 279844486,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "welke delen snap je niet?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.34000005260123617
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.7994321684817896
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.3923605249617206
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.7238050003290037
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 279844486,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "zal ik je helpen volgende keer?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.855958367687992
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 923525076,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Die hebben we elke week om deze tijd Koos."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.39483695559349
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.6464286241019318
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.8160630699575144
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 923525076,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Snap je het nut van integratie testen nu dat je push problemen opleverde Koos?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.5980721732189916
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.9149731012008555
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.3270839657264558
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.2512062247219915
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 923525076,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zal ik je anders helpen je laatste push op te schonen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.8743291292502926
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 923525076,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "Is goed."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 0.14605935134943543
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 2079582657,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Wederom, als je hulp nodig hebt, dan laat ik het je zo wel even zien."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.43832901656011686
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 509229630,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Zullen we nu even samen naar je code kijken?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.6456951947052594
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.8179309734554351
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.5560400018715201
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.3124265397206105
+      }
+    ],
+    "playerMatch": 3,
+    "expertMatches": [
+      3,
+      3
+    ],
+    "goldenMatch": 3
+  },
+  {
+    "playthroughRID": 509229630,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "Is gucci"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 0
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 467805345,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Wil je daar misschien wat hulp bij?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.5765878558939165
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.8107275009871182
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.4570990876567371
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.45999474356685965
+      }
+    ],
+    "playerMatch": 3,
+    "expertMatches": [
+      3,
+      3
+    ],
+    "goldenMatch": 3
+  },
+  {
+    "playthroughRID": 1008699297,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Dat kan gebeuren. Hoe vind jij dat het gaat?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.4212914883269311
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.5358687107178338
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.8115284563271978
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1008699297,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zal ik je bij de volgende feature helpen met het houden aan de coding standards?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.758431684717368
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 2092405083,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Er is elke dag om dezelfde tijd een daily stand-up."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.4617558568958836
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.7611497947168232
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.868590094828806
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      null,
+      2
+    ],
+    "goldenMatch": 2
+  },
+  {
+    "playthroughRID": 2092405083,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Heb je misschien ergens hulp bij nodig?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.8718427265947121
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 705473116,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Dat is elke dag om dezelfde tijd."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.5239877230105549
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.8189924697809257
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.7996169803301981
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      null,
+      2
+    ],
+    "goldenMatch": 2
+  },
+  {
+    "playthroughRID": 705473116,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Het gaat erom dat we met z'n allen samenwerken en elkaar begrijpen."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.4215794805829273
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.9536804890502149
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.4123675971445143
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.4050938086524447
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 944962547,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Het is een 'daily' standup, het is elke dag"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.4749120853595148
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.7522361294561901
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.7401774237580262
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      null,
+      2
+    ],
+    "goldenMatch": 2
+  },
+  {
+    "playthroughRID": 944962547,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "We kunnen een keer samen er naar kijken"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.34024703114995397
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1114014994,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Nou ja, dan weet je het voor de volgende keer."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.466415604850173
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.7265071965292115
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.9116127822442549
+      }
+    ],
+    "playerMatch": 3,
+    "expertMatches": [
+      3,
+      1
+    ],
+    "goldenMatch": 3
+  },
+  {
+    "playthroughRID": 1114014994,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Zoals bijvoorbeeld de integration tests?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.030793325019465884
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.05674349551252339
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.2894110438629608
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.9308613975779358
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1114014994,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Heb je hier misschien hulp bij nodig?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.37631375463992206
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1489785630,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Probeer op internet er eens wat over te lezen."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.6530498658278296
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 820736223,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Dat verbaast me niets"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.594753800295532
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.8796112642707419
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.7575922136448016
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 820736223,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Nou ja, zoek het uit op internet en laat het weten als je hulp nodig hebt."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.3149738623280438
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1264694653,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "er is altijd een standup, maargoed ik moet wat met je bespreken"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.5092945870547175
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.8868432807190643
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.7604302775417834
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1264694653,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "ik kan je best helpen "
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.8888244083889392
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 61247637,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "zoals wat?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.21719442639287356
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.6172147935643392
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.2679601889207968
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.6463289378164587
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 61247637,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "nee ik ga je niet helpen Koos"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.9221406846336898
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 61247637,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "nee koos ik ga je niet helpen"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 0.09452381812923874
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1744075769,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Ja inderdaad"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.08535535431342542
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.1394367109643008
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.5742422182314879
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1744075769,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Hmm, wat snap je precies niet?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.37404984404296576
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.9195003678070838
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.30521236282035646
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.40272532769326236
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 1744075769,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Dankjewel!"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 366728993,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Dit was ook besproken tijdens de team-meating afgelopen week. Waar jij OOK niet bij was...."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.8403694896287733
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.6342297279870426
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.5192375033158838
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 366728993,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "Dat kan"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 0.45618400704304135
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1123779831,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Hm, dat hadden we de vorige keer afgesproken, heb je het toen gemist?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.423729016370119
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.6620250534737734
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.7617049181891283
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      null,
+      2
+    ],
+    "goldenMatch": 2
+  },
+  {
+    "playthroughRID": 1123779831,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Oh, welke aspecten? Kan ik je daarbij helpen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.16172682371459482
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.2412045280831642
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.7420613622286749
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.9376909768123171
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 1123779831,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zal ik helpen met het schrijven van de tests voor de volgende feature?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.8335192133257635
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 285376391,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zal ik helpen met de tests voor de volgende feature/"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.8680788586829112
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 677737525,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "We zijn ondertussen al redelijk ver in het project, hoe komt het dat je daar nog niet van op de hoogte bent?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.3881364217030053
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.5505254212752675
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.6976091579544973
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 677737525,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Lijkt het je fijn om een keer wat samen te coden?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.4014625790879647
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 450316886,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Ah wat snap je niet dan?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.3603463103309747
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.9536772253772061
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.3267826731466592
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.36470706721680085
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 450316886,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Lijkt het je fijn om een keer wat samen te doen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.4014625790879647
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1860020154,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "O ja? Zoals?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.1564111033543352
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.01604948452087181
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.2232540535380046
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.14435302456991245
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 1860020154,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zullen we anders samen aan de volgende feature werken?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.6474123300580478
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1860020154,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "Is ook goed."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 0.1162585508669246
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 556620157,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zal ik je helpen bij de volgende feature?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.8807342661208167
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 319848817,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Kan gebeuren, probeer dit soort afspraken wel te onthouden voor de volgende keren!"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.41072681425224933
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.5443714384448315
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.9630897330121436
+      }
+    ],
+    "playerMatch": 3,
+    "expertMatches": [
+      3,
+      3
+    ],
+    "goldenMatch": 3
+  },
+  {
+    "playthroughRID": 319848817,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Heb ik vaak ook hoor! Maar toch is het belangrijk om deze dingen toch uit te voeren"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.4184955951312435
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.9438789292760382
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.378585267307484
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.4918688944912829
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      2
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 319848817,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zal ik je voor je volgende feature helpen met de coding standard hanteren?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.8524382581769588
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1878981702,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Dat hadden we de vorige keer afgesproken."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.30574825550827656
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.595999088644496
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.6700266698616515
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      2,
+      2
+    ],
+    "goldenMatch": 2
+  },
+  {
+    "playthroughRID": 1878981702,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zal ik anders over je code heengaan voordat je het pushed?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.8406941185034279
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 857701182,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Ik kan je onze standaarden uitleggen en helpen bij het schrijven van een functie als je dat fijn vind"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.7925250943336041
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 2138031404,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Dat hadden we de vorige keer afgesproken."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.30574825550827656
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.595999088644496
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.6700266698616515
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      2,
+      2
+    ],
+    "goldenMatch": 2
+  },
+  {
+    "playthroughRID": 2138031404,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Je kan misschien de volgene feature samen met iemand maken, dan kan je wennen aan de coding stijl en de tests."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.6946419335392756
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1751911916,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Welke aspecten snap je het nut niet van?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.37814776063133193
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.6532534773027816
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.4174948947652679
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.8481505412697564
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      null
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 1751911916,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Kan ik je helpen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.9849408202674264
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1853921393,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Er is heel vaak een standup. Waarom wist je dat niet?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.5368372437716096
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.7989938572005744
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.8188660305725524
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1853921393,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Van welke aspecten snap je het nut niet? Snap je het nut van coding standaarden en intergratie tests wel?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.4377351015790386
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.7677646735438187
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.4078707239629555
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.7597356742224636
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      null
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 1853921393,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Nee klopt, ik ook niet, maar daarom is het juist leuk om dit soort dingen uit te zoeken. Zal ik met je mee kijken naar je code zodat die ook aan de coding standaard voldoet?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.5622301150647996
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 529458982,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "dan kan je dat gewoon vragen"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.491821500118861
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.8114967617295245
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.6598172610052853
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.3312744729535011
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 529458982,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Geeft niets, er is veel te leren"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.3069793658455899
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 676590536,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "voor alles is een eerste keer"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.21185420175422837
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 429708645,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "manmanman, dat hebben we denk ik al van te voren af gesproken, tbh ken ik de lore niet goed genoeg dus weet niet zeker hoe we dat hadden afgesproken"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.4229620334640643
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.6501499066535295
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.7126769030062492
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 429708645,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Ja het nut zie je vaak later pas wanneer het allemaal wat groter wordt en echt moet werken"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.5222952979619674
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.8214798578921971
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.48858334693359273
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.6389573959762346
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      2
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 429708645,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Kom je verder goed vooruit?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.3815095379000913
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 763629843,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "ja prima, ik kan alleen in de ochtend"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 0.7503063195629889
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1896341622,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "..."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.3895218135812351
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.8756880862048491
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.4449648278894423
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1896341622,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "(eigen indruk van het project). Als je het nut ergens niet van snapt kan ik het wel uitleggen, maar probeer er eerst zelf over na te denken"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.5370783507127703
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.7916807482348668
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.6948804536939692
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.4964884297218414
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      2
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1896341622,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "als je ergens mee zit, ik zit in t kantoor"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.9504823836138345
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 2024516061,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Ja, net als vorige week"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.3771923471381204
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.4631469772031477
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.5084961909709318
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 2024516061,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zou je wat hulp willen bij de volgende feature?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.6048871247373898
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 672505495,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Misschien kan iemand anders je helpen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.9729911611408656
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 2050916587,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Kan gebeuren, maar er is vandaag ook een demo voor de klant"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.5008627389603179
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.7954351692869966
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.7756438564445048
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 2050916587,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Welke aspecten zoal?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.030793325019465887
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.0567434955125234
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.2894110438629608
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.9308613975779358
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 2050916587,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Kan ik je anders ergens mee helpen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.9999999999999997
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 2050916587,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "Prima"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 1
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 631508946,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zou het handig zijn om hier samen naar te kijken?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.32798364206946673
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 722599320,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Vervelend! Dat hebben we in de vorige vergadering afgesproken"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.3705249281856667
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.6943492668967741
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.5386694855512494
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      2,
+      1
+    ],
+    "goldenMatch": 2
+  },
+  {
+    "playthroughRID": 722599320,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Snap je integratietesten?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.4744690613051927
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.9646062743211932
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.3442947861058016
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.33916296635823784
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      null,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 722599320,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zou ik je anders kunnen helpen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.8790105139074768
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1827889931,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Ik merk dat dat de afgelopen tijd wel vaker gebeurt. Kan dit kloppen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.6450707768983855
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.7638884708255286
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.7825260590924813
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1827889931,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Dat ken ik. Misschien handig om je code eens langs telopen voor de coding standard?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.513766759408257
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1362993436,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Van wat bijvoorbeeld niet?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.3662122550556
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.5029717640941199
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.3824461965181884
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.8428153049155765
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      null,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 1362993436,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "zullen we er samen eens naar kijken?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.5596241993841994
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 2046665102,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "We hebben de tijden voor de stand ups van te voren duidelijk afgesproken"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.4714260554804686
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.7688132245491262
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.650998878450894
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      2,
+      1
+    ],
+    "goldenMatch": 2
+  },
+  {
+    "playthroughRID": 2046665102,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Welk aspecten snap je niet? Misschien kunnen we er samen eens naar kijken"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.5256410259241326
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.8961742271344572
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.45082888824585654
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.4837319185380321
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 2046665102,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Dat maakt niet uit. Misschien kunnen we er samen eens naar kijken"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.3600465274661486
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 374162967,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "We hebben dit afgesproken bij de vorige meeting"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.4416544886190176
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.5686284861086157
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.46056799560012435
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      2,
+      2
+    ],
+    "goldenMatch": 2
+  },
+  {
+    "playthroughRID": 374162967,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Waar heb je moeite mee?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.23948645679421107
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.39597171324015595
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.7234946225148517
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.8962400351977515
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 374162967,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zal ik je helpen"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.9543785651165302
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 44131013,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "We hebben elke dag een stand up om 10 uur"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.4026163142498165
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.6418630454028997
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.6512752361098291
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      2,
+      2
+    ],
+    "goldenMatch": 2
+  },
+  {
+    "playthroughRID": 44131013,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Wat voor soort aspecten bedoel je?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.3964160684023664
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.627674200755496
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.47410248137139455
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.840605176178466
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 44131013,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Wat vind je moeilijk? Misschien kan ik je dan helpen"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.9182287311072945
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 663677866,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "We hebben elke dag een standup"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.39383825837222175
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.688553903927161
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.6761490586019037
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      null,
+      2
+    ],
+    "goldenMatch": 2
+  },
+  {
+    "playthroughRID": 663677866,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zal ik anders zometeen je code reviewen en de code standard met je bespreken?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.6051637330791015
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1358485320,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Welke aspecten vind je lastig?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.10541713572490218
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.1506879693438086
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.5688844196232185
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.9787768915217566
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 1358485320,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zullen we anders bij je volgende feature de code standard checken voordat je pushed?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.7136145030108478
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1007880218,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "ik zou daarom goed gebruik maken van deze leerervaring, zijn er meer dingen waar je vragen over hebt?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.721576748512187
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 874083768,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Oke, als je je de volgende keer aan onze standaarden houdt, dan komt het wel goed."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.456553865079226
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1414647778,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Je hebt wel belangrijke updates gemist, maar als je vragen hebt dan hoor ik het wel."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.5659248487453473
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.5879864275228346
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.7229977294621125
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1414647778,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Heb je het dan wel eens met anderen besproken?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.4441054834826653
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.7304465310124679
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.6923006768720861
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.6391680859362908
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1414647778,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zal ik je anders even laten zien waar je meer informatie hierover kan vinden?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.6376091692522552
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 642110096,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Welke aspecten niet?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.07301517257714357
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.14359815539462353
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.3182733252636563
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.9409506377390705
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 642110096,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zal ik je anders wat op weg helpen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.8816845054244914
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 642110096,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "Prima!"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 1
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 668131351,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "integratie testen zijn belangrijk"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.3147647150190881
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.9901270942769295
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.1951263174276286
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.27562548200492526
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      2
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 668131351,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zullen we samen aan een feature werken"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.6429233597686047
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 211406035,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "kan gebeuren probeer in het vervolg wel aanwezig te zijn"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.6281854627398681
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.5279480843094092
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.9041921301854401
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      3,
+      3
+    ],
+    "goldenMatch": 3
+  },
+  {
+    "playthroughRID": 211406035,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "waar heb je moeite mee?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.23948645679421107
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.39597171324015595
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.7234946225148517
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.8962400351977515
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 211406035,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "heb je hier hulp bij nodig"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.37631374729487277
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1870707976,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Er is elke dag een standup, inmiddels moet je dat natuurlijk wel doorhebben"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.5545441199936526
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.7585181015787175
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.7695834475329626
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1870707976,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Als je hulp nodig hebt, twijfel dan vooral niet om te vragen!"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.4209961504467526
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1946763201,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Het lijkt erop dat je vaker niet op de hoogte bent van onze plannin"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.45294926764629023
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.5745539452073966
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.7277439371842701
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1946763201,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Welke aspecten bedoel je precies, misschien kunnen we die samen even bespreken?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.4725790646070636
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.5511135537731394
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.5987435717024006
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.7998806146393596
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 1946763201,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zal ik de coding standaard even met je doornemen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.6382896284507826
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1759733840,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "We hadden het vorige vergadering afgesproken."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.20532325607668234
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.4147380887164162
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.531058875960767
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      2,
+      2
+    ],
+    "goldenMatch": 2
+  },
+  {
+    "playthroughRID": 1759733840,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zou je het fijn vinden als we een stukje samen gaan programmeren?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.5303301046757594
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1234703901,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "In principe hebben we dat op vaste tijden afgesproken, namelijk *tijd*."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.4783633037660355
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.8175575480373491
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.7404987057338518
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      2,
+      3
+    ],
+    "goldenMatch": 2
+  },
+  {
+    "playthroughRID": 1234703901,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Dat heb ik ook, maar ik kan me wel voorstellen dat het later er ook zo ongeveer aan toe gaat."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.5654329482118823
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.7775774197169333
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.6494154726696891
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.4767113029022278
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 583073879,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Ach, kan gebeuren. Ze staan elke dag ingepland rond dit tijdstip. Als je ervoor zorgt dat je volgende keer wel aanwezig bent dan is er niks aan de hand."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.6461427683869932
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.671663921828661
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.9462484532463921
+      }
+    ],
+    "playerMatch": 3,
+    "expertMatches": [
+      3,
+      3
+    ],
+    "goldenMatch": 3
+  },
+  {
+    "playthroughRID": 583073879,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "heb je wel eens eerder gewerkt met codingstandaarden?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.4617518652207457
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.8207751329959155
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.5663432021775641
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.5945868825309963
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 583073879,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zou ik je daar de volgende keer mee helpen? Dan lopen we er even samen doorheen"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.7911376930074598
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 954414790,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Dat hadden wij afgesproken in de afgelopen team-meeting. Kan gebeuren natuurlijk. Zorg dat je er volgende keer wel bent"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.5639616854060965
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.7480545224058706
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.9670421120501694
+      }
+    ],
+    "playerMatch": 3,
+    "expertMatches": [
+      3,
+      3
+    ],
+    "goldenMatch": 3
+  },
+  {
+    "playthroughRID": 954414790,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Voor grote projecten is uniformiteit heel belangrijk"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.48433738817379085
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.8869803204025243
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.3293591235882904
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.5980522504469974
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      2
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 954414790,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zullen wij iets afspreken om er even samen doorheen te lopen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.4043157067238064
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1509586725,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Die is elke dag ongeveer op dezelfde tijd"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.43602118383628746
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.6861799473746637
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.8361014731576102
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      null,
+      2
+    ],
+    "goldenMatch": 2
+  },
+  {
+    "playthroughRID": 1509586725,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Gebruik je de linter om je code te checken voordat je pusht?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.3837966771912828
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1783347884,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Ach ja, kan gebeuren, ben je morgen wel optijd?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.3797170976398963
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.4531700589576398
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.845473070507297
+      }
+    ],
+    "playerMatch": 3,
+    "expertMatches": [
+      null,
+      3
+    ],
+    "goldenMatch": 3
+  },
+  {
+    "playthroughRID": 1783347884,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Wat is je ervaring tot nu toe ermee?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.3531084610738996
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 291277241,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Kan gebeuren, probeer er meer rekening mee te houden, het helpt het team veel."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.3937417802798551
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.7082770424647663
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.9245047859965991
+      }
+    ],
+    "playerMatch": 3,
+    "expertMatches": [
+      3,
+      null
+    ],
+    "goldenMatch": 3
+  },
+  {
+    "playthroughRID": 291277241,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Welke aspecten begrijp je niet?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.15942533418931837
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.24565778319184664
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.41594122403600226
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.9610690652418528
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 291277241,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Wil je er wat hulp bij hebben?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.3168356619965827
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 588104117,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Ja zo hadden we het afgesproken aan het begin van het project"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.26319094083811395
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.39652575386539723
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.7594963132343358
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      null,
+      2
+    ],
+    "goldenMatch": 2
+  },
+  {
+    "playthroughRID": 588104117,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Als je daar vragen over hebt, kan je altijd bij het team terecht. Misschien kunnen wij je daarbij helpen"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.6488656020282421
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.5905178115070517
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.8475446964061858
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.3823258358492916
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 588104117,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zullen we anders samen aan een feature werken?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.642923357640482
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1779022639,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Zo hadden wij dat afgesproken bij de vorige meeting. Weet je dat nog?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.5214411294524405
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.6767599625716265
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.6876815922633253
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1779022639,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Wat begrijp je precies niet?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.36475639515207
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.6900191753613372
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.4287565530068862
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.5403756317758305
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 1779022639,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zal ik je de volgende keer helpen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.855958367687992
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1779022639,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "Ja dit is ook goed"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 0.3960860014516232
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 980445926,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Welke aspecten snap je het nut niet helemaal van?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.3781477679853652
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.6532534959547807
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.41749489558714387
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.8481505295848603
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 980445926,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zullen we iets afspreken om je te helpen met deze aspecten?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.820484412685595
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 617871018,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Het is denk ik goed als je om hulp vraagt als je er niet uitkomt"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.4046262844501342
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1246747417,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Dat is niet zo handig. Hier zie je wanneer de daily-standups zijn. Zet het anders maar in je agenda of iets dergelijks."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.4876039646460189
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.6365718794744342
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.7686342118846236
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1760354543,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "We hebben dit wel duidelijk afgesproken, maar het is goed dat je het nu weet."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.5282194387609866
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.7103812342262761
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.6954997066253297
+      }
+    ],
+    "playerMatch": 3,
+    "expertMatches": [
+      null,
+      3
+    ],
+    "goldenMatch": 3
+  },
+  {
+    "playthroughRID": 1760354543,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zal ik je ermee helpen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.9543785612012313
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 774304585,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "Wat dacht je van vandaag?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 0.12854826522412754
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 420667362,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Deze is eigenlijk elke dag op dezelfde tijd."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.4607456514101931
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.7270367573331827
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.7468472603234202
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      null,
+      2
+    ],
+    "goldenMatch": 2
+  },
+  {
+    "playthroughRID": 420667362,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Ik heb wel vaker lang gewerkt aan grotere projecten, ik kan je wel wat tips geven."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.8811856440843616
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 420667362,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "Klinkt goed."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 0.28867514104720493
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1948349854,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Dit staat ook in de agenda van het team. Ik vind het handig om die de avond van te voren nog even te checken."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.459400193084706
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.7278626455976287
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.7154339312929862
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1948349854,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Er is een reden voor, bijvoorbeeld dat het samenwerking makkelijker maakt. En, al die grote bedrijven zouden deze procedures ook niet voor niks volgen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.6730224318304997
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.7559674060434655
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.49531911562534314
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.566644068794653
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      2
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1948349854,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Heb je hulp nodig?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.7138784422133051
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1948349854,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "Ben je er dan ook? En op tijd?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 0.2857885554392854
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 50068449,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Waar snap je het nut niet van?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.5403520584596908
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.9295497735350993
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.31486593699144355
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.2614346353320176
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 50068449,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zal ik je helpen"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.9543785651165302
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1646699509,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Ik kan je wel helpen met de standaarden te doorgronden."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.8401436532224399
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1262002666,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "jammer"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0
+      }
+    ],
+    "playerMatch": 3,
+    "expertMatches": [
+      null,
+      3
+    ],
+    "goldenMatch": 3
+  },
+  {
+    "playthroughRID": 1262002666,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Welke aspecten?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.030793325019465884
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.05674349551252339
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.2894110438629608
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.9308613975779358
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 1263947636,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Vervelend, dan moeten we er voor zorgen dat dit vanaf nu beter gecommuniceerd wordt."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.504378550321935
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.9409100813937631
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.658658908831259
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1263947636,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Dat is niet erg, zou je het fijn vinden om anders samen aan een feature te werken?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.4377047770677018
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 337264138,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Dat hebben we afgesproken vorige keer."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.33185694089659684
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.6624780788575055
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.5603009401844723
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      2,
+      2
+    ],
+    "goldenMatch": 2
+  },
+  {
+    "playthroughRID": 337264138,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Integratie testen is belangrijk om zeker te weten dat alles werkt."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.595712271775678
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.8881049722340103
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.3850733169989865
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.3128924225964465
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 337264138,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zullen we anders samen aan een feature werken?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.642923357640482
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 337264138,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "Prima."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 1
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1211811297,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Dat hadden we afgesproken de vorige keer."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.30574825550827656
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.595999088644496
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.6700266698616515
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      2,
+      2
+    ],
+    "goldenMatch": 2
+  },
+  {
+    "playthroughRID": 1211811297,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Snap ik. Heb je misschien hulp nodig?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.6590103456230884
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 2008811278,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Heb je hulp nodig?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.7138784422133051
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 465184501,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "We hadden afgesproken dit elke dag te doen om deze tijd. Waarom was je te laat?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.5417885819518825
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.6415151550729242
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.8111414942941361
+      }
+    ],
+    "playerMatch": 2,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 465184501,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Welke aspecten snap je niet?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.25701626045957565
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.5981947101073624
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.3958147431240322
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.8853185889266298
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 465184501,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Wil je misschien wat hulp bij het schrijven van je code?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.35442599490929066
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 706484316,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Kan ik je helpen met een feature schrijven?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.9509807353124334
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 706484316,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "Is goed"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 0.14605935134943543
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 964350289,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Ik ook. Hoe vind je dat eigenlijk?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.9090062687548552
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 136607782,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "Is goed. Dan zal ik helpen letten op de tests."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 0.08964757944237703
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1690315605,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Zal ik anders een paar keer alles met je doorlopen, zodat je er aan kan wennen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.5913217001665818
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1690315605,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "Het is waarschijnlijk het beste als we vandaag al beginnen."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 0
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 298899612,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "Dat klinkt goed. Zullen we morgen na de standup samen even kijken naar je werk?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 0.21344335347343157
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 773715345,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Dus wel. Nu hebben we een probleeem."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.2919473148633292
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.42674496397020656
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.40304917011528835
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 773715345,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "MOet ik je helpen?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.8639616535571963
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1544288692,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Dat hebben we vorige keer afgesproken. Daar was je toch bij?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.6078363451243809
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.6853340912271766
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.6465091326725219
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1544288692,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "Als je iets niet begrijpt, kun je dat het best aan de rest vragen. Anders gaan dit soort dingen fout natuurlijk"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.547827343057255
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.7698344515233742
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.5726626841882383
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.5006006634422104
+      }
+    ],
+    "playerMatch": null,
+    "expertMatches": [
+      null,
+      null
+    ],
+    "goldenMatch": null
+  },
+  {
+    "playthroughRID": 1544288692,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Het is voor mij ook nieuw. Het is zeker moeilijk, maar het doel is om ervan te leren. We kunnen je altijd helpen als het nodig is."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.4534010000476692
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 1544288692,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "Prima"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 1
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 873475141,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "Kan gebeuren, kan je daar wel op proberen te letten? We hebben (volgens mij) duidelijk afgespoken wanneer deze zijn."
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.44655598789762824
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.5901619399494997
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.862916615353286
+      }
+    ],
+    "playerMatch": 3,
+    "expertMatches": [
+      null,
+      3
+    ],
+    "goldenMatch": 3
+  },
+  {
+    "playthroughRID": 873475141,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "Same, zullen we er even goed naar gaan kijken?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.5629767925377793
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 873475141,
+    "predecessorID": "edit.65",
+    "input": {
+      "text": "Sure"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Prima",
+        "sscmeScore": 0
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      1,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 2000890358,
+    "predecessorID": "edit.16",
+    "input": {
+      "text": "misschien als je optijd zou zijn gekomen voor de vorige meeting"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Dat had je wel geweten als je bij de afgelopen algemene team-meeting aanwezig was.",
+        "sscmeScore": 0.5902519653487923
+      },
+      {
+        "text": "Wij hebben afgesproken in de afgelopen algemene team-meeting om dagelijks een stand-up te houden om 10u. ",
+        "sscmeScore": 0.7210749504779574
+      },
+      {
+        "text": "Dat kan wel gebeuren. Zorg wel dat je de volgende keer op tijd bent.",
+        "sscmeScore": 0.603483869912696
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 2000890358,
+    "predecessorID": "edit.39",
+    "input": {
+      "text": "welke aspecten begrijp je niet"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Integratietesten zorgen er voor dat de software als geheel werkt. ",
+        "sscmeScore": 0.15942533418931837
+      },
+      {
+        "text": "Testen is belangrijk op unit en op systeem niveau, zorgt voor een stabiel product. Andere dingen?",
+        "sscmeScore": 0.24565778319184664
+      },
+      {
+        "text": "Zal ik je helpen met de volgende feature?",
+        "sscmeScore": 0.41594122403600226
+      },
+      {
+        "text": "Welke aspecten heb je moeite mee?",
+        "sscmeScore": 0.9610690652418528
+      }
+    ],
+    "playerMatch": 4,
+    "expertMatches": [
+      4,
+      4
+    ],
+    "goldenMatch": 4
+  },
+  {
+    "playthroughRID": 2000890358,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "ik heb er geen problemen mee om te helpen met leren van de codingstijl"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.8462561375268547
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  },
+  {
+    "playthroughRID": 263317218,
+    "predecessorID": "edit.54",
+    "input": {
+      "text": "wil je dat ik je help met het schrijven van je volgende code?"
+    },
+    "inputMethod": "text",
+    "options": [
+      {
+        "text": "Kan ik je ergens mee helpen?",
+        "sscmeScore": 0.6063345449108399
+      }
+    ],
+    "playerMatch": 1,
+    "expertMatches": [
+      null,
+      1
+    ],
+    "goldenMatch": 1
+  }
+]
